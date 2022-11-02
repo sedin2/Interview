@@ -5,4 +5,7 @@
 #### 질문 목록
 
 - CheckedException vs UncheckedException의 차이점
-  - Spring @Transaction에서 CheckedException과 UncheckedException 중 Rollback 대상은?
+
+  - Spring `@Transaction`에서 CheckedException과 UncheckedException 중 Rollback 대상은?
+
+  > [CheckedException vs UncheckedException & @Transactional Rollback Rules](https://github.com/sedin2/CS-Study/blob/main/Java/checked-exception-vs-unchecked-exception.md)
